@@ -1,2 +1,3 @@
 Comment added
 One more coment added 
+Git helps to version control for projects
